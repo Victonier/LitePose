@@ -1,0 +1,11 @@
+setup.py
+../common/maskApi.c
+crowdposetools/__init__.py
+crowdposetools/_mask.c
+crowdposetools/coco.py
+crowdposetools/cocoeval.py
+crowdposetools/mask.py
+crowdposetools.egg-info/PKG-INFO
+crowdposetools.egg-info/SOURCES.txt
+crowdposetools.egg-info/dependency_links.txt
+crowdposetools.egg-info/top_level.txt
